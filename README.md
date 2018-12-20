@@ -1,2 +1,3 @@
 # hello-world
-Just going stuff from GitHub's tutorial. Nothing much.
+
+So, yeah, just doing tutorial stuff. Guess I'll delete it after some time.
